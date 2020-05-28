@@ -1,0 +1,89 @@
+ls
+clear
+cat history | less
+clear
+exit
+exit
+exit
+exit
+gedit hello
+clear
+ls
+gedit test2.c
+gedit test2.txt
+clear
+cat test2.txt | test2.c
+clear
+gcc test2.c
+cat test2.txt | ./a.out
+clear
+exit
+exit
+diff --help
+diff -q test2.txt history
+clear
+diff -s test2.txt test2.txt
+diff -q test2.c test2.txt
+diff  test2.c test2.txt
+bc
+exit
+ls
+cd ..
+ls ..
+sudo apt-get update
+clear
+hello
+help
+exit
+hello
+exit
+clear
+hello
+exit
+ls
+cd
+exit
+exit
+hello
+mkdir 111
+ls
+rmdir 111
+clear
+exit
+hello
+ls
+ls ..
+exit
+echo hello
+cd ..
+ls
+cd ..
+ls
+cat test2.c 
+vi test.txt
+cat test.txt 
+cat test.txt 
+gcc test2.c 
+cat test.txt | ./a.out
+clear
+hello
+help
+clear
+exit
+clear
+exit
+hello
+help
+exit
+clear
+ls
+pwd
+clear
+pwd
+clear
+pwd
+ls
+help
+hello
+clear
+exit
